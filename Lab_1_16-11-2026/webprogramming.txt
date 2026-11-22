@@ -1,0 +1,15 @@
+Web programming:
+HTML,
+CSS,
+Javascript,
+PHP,
+Database,
+Github project directory :
+commit and to sharw with teacher ,
+repository.
+
+pdf or mark down to be uploaded in github repository.
+directory name :2304029_CSE_3154
+folders
+lab1_date
+files
